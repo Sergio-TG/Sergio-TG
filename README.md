@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergio-TG
 - 👀 I’m a Front End Web Developer 
-- 🌱 I’m currently learning Html5 / CSS3 / JavaScript / React
+- 🌱 My Stack: Html5 / CSS3 / JavaScript / React / Bootstrap
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me ... sergiotorresguaymasi@gmail.com
 
