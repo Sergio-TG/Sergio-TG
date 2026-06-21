@@ -1,6 +1,6 @@
 ## Hi, I’m @Sergio-TG
-### ⚛️ I’m a Front End Web Developer specialized in team leadership and project management.
-### 🚧 My Stack: Html5 / CSS3 / JavaScript / React / Bootstrap
+### ⚛️ I’m a Web Developer specialized in team leadership and project management.
+### 🚧 My Stack: Html5 / CSS3 / JavaScript / React / Typescript / Bootstrap / Tailwind CSS
 ### 💻 I’m looking to collaborate on a project
 ### 📫 How to reach me ... sergiotg.web@gmail.com / www.sergiotg.vercel.app
 
