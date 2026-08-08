@@ -2,7 +2,7 @@
 ### ⚛️ I’m a Web Developer specialized in team leadership and project management.
 ### 🚧 My Stack: Html5 / CSS3 / JavaScript / React / Typescript / Bootstrap / Tailwind CSS
 ### 💻 I’m looking to collaborate on a project
-### 📫 How to reach me ... sergiotg.web@gmail.com / www.sergiotg.vercel.app
+### 📫 How to reach me ... sergiotg.web@gmail.com
 
 <!---
 Sergio-TG/Sergio-TG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
